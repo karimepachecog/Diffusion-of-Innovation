@@ -1,9 +1,3 @@
-'''
-Simulation class for Chapter 7 Tutorial of Intro Network Science book
-
-Copyright 2018 Indiana University and Cambridge University Press
-'''
-
 from collections import Counter
 from operator import itemgetter
 
